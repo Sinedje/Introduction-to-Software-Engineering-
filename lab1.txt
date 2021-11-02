@@ -1,0 +1,18 @@
+Here are the answers to the questions corresponding to lab 1 of the web site 
+
+1) Software engineering is not part of the system engineering process.
+The conduct of system engineering planning does not require knowledge or training in the physical sciences. Input from those using systems engineering is based on the traditional areas of engineering systems. Engineering can be employed for software engineering. Also, there are software programs to assist in the systems engineering procedures and in documentation of results.
+
+2) Software crisis is a term used in computer science to describe  the difficulty of writing useful and efficient computer programs in the required time.
+
+3) The professional responsibilities of software engineers are;
+- Perform systems modelling, simulation plus evaluation to provide suitable software solutions.
+- Design and prepare essamblers, utility programs, compilers and operating systems to accomplish customer business needs.
+- Provide all required input for documents of new and existing programs to assure information accessibility as needed.
+- Support customising purchased applications plus assist to maintain programs libraries along with manuals on basis of research as well as customer needs.
+- Perform with customers to present hand-on first level assistance.
+- Learn, interpret and comply with software change control methodology.
+- Alerts and make others aware of any potential damage about his or her products.
+
+4) The statement « component based software engineering allows faster delivery » is True.
+Explanation: Due to using previously tested components they produce more reliable system at faster rate. 
